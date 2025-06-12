@@ -6,8 +6,6 @@ const app = express();
 
 // Configure it
 
-/* ************************************************************************* */
-
 // CORS Handling: Why is the current code present and do I need to define specific allowed origins for my project?
 
 // CORS (Cross-Origin Resource Sharing) is a security mechanism in web browsers that blocks requests from a different domain than the server.
